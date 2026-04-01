@@ -43,6 +43,7 @@ mysql • mongodb
 
 **tools**  
 git • github • jupyter
+
 ---
 
 ## currently exploring
