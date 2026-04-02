@@ -57,4 +57,4 @@ git • github • jupyter
 ## contact
 
 📧 aasthashukla0015@gmail.com  
-🔗 LinkedIn: 
+🔗 LinkedIn: https://www.linkedin.com/in/aastha-shukla-753a24323/
